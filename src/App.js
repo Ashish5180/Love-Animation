@@ -12,9 +12,7 @@ const App = () => {
   const quotes = [
     "Every moment with you is like a beautiful dream.",
     "You’re the one who makes my heart smile.",
-    "Love is not just what I feel, it’s what I live with you.",
     "You’re my favorite place to go when my mind searches for peace.",
-    "My love for you is a journey, starting at forever and ending at never.",
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
